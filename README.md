@@ -1,5 +1,4 @@
 # Northern-Hemisphere-Temperature-prediction-using-RandomForest-
-Northern Hemisphere Temperature prediction using RandomForest 
 
 Reference
 GISTEMP Team, 2023: GISS Surface Temperature Analysis (GISTEMP), version 4. NASA Goddard Institute for Space Studies. Dataset accessed 2023-02-06 at http://data.giss.nasa.gov/gistemp/.
