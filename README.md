@@ -7,7 +7,7 @@ GISS Analysis
 
 The basic GISS temperature analysis scheme was defined in the late 1970s by James Hansen when a method of estimating global temperature change was needed for comparison with one-dimensional global climate models. The analysis method was fully documented in Hansen and Lebedeff (1987). Several papers describing updates to the analysis followed over the following decades, most recently that of Hansen et al. (2010), as well as the uncertainty quantification of Lenssen et al. (2019).
 
-For further details, please see the GISTEMP Background, History, and References pages. We also maintain a running record of modifications made to the analysis on our Updates to Analysis page.
+For further details, please see the GISTEMP Background, History, and References pages mentioned. We also maintain a running record of modifications made to the analysis on our Updates to Analysis page.
 
 The GISTEMP analysis is updated regularly. Graphs and tables are posted around the middle of every month using the latest GHCN and ERSST data. The update incorporates reports for the previous month as well as late reports and corrections for earlier months.
 
