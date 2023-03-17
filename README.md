@@ -11,4 +11,4 @@ For further details, please see the GISTEMP Background, History, and References 
 
 The GISTEMP analysis is updated regularly. Graphs and tables are posted around the middle of every month using the latest GHCN and ERSST data. The update incorporates reports for the previous month as well as late reports and corrections for earlier months.
 
-Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies (Land-Ocean Temperature Index, L-OTI). The following are plain-text files in tabular format of temperature anomalies, i.e. deviations from the corresponding 1951-1980 means.
+Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies (Land-Ocean Temperature Index, L-OTI). The following are plain-text files in tabular format of temperature anomalies, i.e. deviations from corresponding 1951-1980 means.
