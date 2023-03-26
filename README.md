@@ -2,7 +2,7 @@
 
 Reference
 GISTEMP Team, 2023: GISS Surface Temperature Analysis (GISTEMP), version 4. NASA Goddard Institute for Space Studies. Dataset accessed 2023-02-06 at http://data.giss.nasa.gov/gistemp/.
-Lenssen, N., G. Schmidt, J. Hansen, M. Menne, A. Persin, R. Ruedy, and D. Zyss, 2019: Improvements in the GISTEMP uncertainty model. J. Geophys. Res. Atmos., 124, no. 12, 6307-6326,doi:10.1029/2018JD029522.
+Lenssen, N., G. Schmidt, J. Hansen, M. Menne, A. Persin, R. Ruedy, and D. Zyss, 2019: Improvements in the GISTEMP  model. J. Geophys. Res. Atmos., 124, no. 12, 6307-6326,doi:10.1029/2018JD029522.
 GISS Analysis
 
 The basic GISS temperature analysis scheme was defined in the late 1970s by James Hansen when a method of estimating global temperature change was needed for comparison with one-dimensional global climate models. The analysis method was fully documented in Hansen and Lebedeff (1987). Several papers describing updates to the analysis followed over the following decades, most recently that of Hansen et al. (2010), as well as the uncertainty quantification of Lenssen et al. (2019).
